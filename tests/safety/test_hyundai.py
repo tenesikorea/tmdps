@@ -6,9 +6,9 @@ from panda.tests.safety import libpandasafety_py
 import panda.tests.safety.common as common
 from panda.tests.safety.common import CANPackerPanda
 
-MAX_RATE_UP = 3
-MAX_RATE_DOWN = 7
-MAX_STEER = 384
+MAX_RATE_UP = 5
+MAX_RATE_DOWN = 10
+MAX_STEER = 409
 
 MAX_RT_DELTA = 112
 RT_INTERVAL = 250000
